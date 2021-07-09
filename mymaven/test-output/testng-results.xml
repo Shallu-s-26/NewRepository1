@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6110" started-at="2021-03-07T11:32:49 COT" finished-at="2021-03-07T11:32:55 COT">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="6110" started-at="2021-03-07T11:32:49 COT" finished-at="2021-03-07T11:32:55 COT">
+      <class name="mymaven.PositiveTesting">
+        <test-method status="PASS" signature="startup()[pri:0, instance:mymaven.PositiveTesting@d44fc21]" name="startup" duration-ms="6055" started-at="2021-03-07T11:32:49 COT" finished-at="2021-03-07T11:32:55 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+      </class> <!-- mymaven.PositiveTesting -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
